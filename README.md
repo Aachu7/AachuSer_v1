@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
+  [![AachuSer_v1](<AachuSer.jpg.jpg>
  https://github.com/AachuSer_v1 |  
 ----|
 [Its_me_Aachu](https://github.com/AachuSer_v1)  |
