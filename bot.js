@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
+@AachuSer
 richusir
 /
-RICHUSER_B1
+AachuSer_v1
 Public
-forked from richusir/RICHUSER_B1
+forked from AachuSer/AachuSer_v1
 0
 1121
 Code
@@ -21,9 +21,9 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+AachuSer_v1/bot.js /
+@AachuSer
+AachuSer Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
